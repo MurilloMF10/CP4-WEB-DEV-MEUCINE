@@ -49,6 +49,12 @@ O Meu Cine reúne em uma única plataforma:
 | API do TMDB | Dados de filmes, séries, avaliações, sinopses e streaming. |
 | Armazenamento local | Persistência de Minha Lista no navegador. |
 
+## link vercell
+
+https://cp-4-web-dev-meucine-hwjus95qy-murillomf10.vercel.app?_vercel_share=MsIt4r8CdAA3OPvbhRR0Z1OrE68fP5xX
+
+>O link foi enviado de maneira incorreta na atividade do teams.
+
 ## Integrantes
 
 Murillo — RM 569045 — Arquitetura do projeto e organização da estrutura da aplicação.
